@@ -1,0 +1,56 @@
+@media (min-width: 700px) {
+
+    .logo li {
+        background-color: rgba(185, 185, 137, 0.336);
+        border: 1px solid;
+        border-radius: 10px;
+        margin: 50px;
+        padding: 0;
+        width: 130px;
+        list-style: none;
+        font-size: 20px;
+        text-align: center;
+        font-family: Suez One;
+    }
+    .logo h1{
+        padding-top: 8px;
+        font-size: 50px;
+     }
+
+    .escrever-dk {
+        width:300px;
+        padding: 15px;
+        font-size: 20px;
+        border-radius: 9px;
+    }
+    #btn-logo{
+    min-width: 200px;
+        padding: 15px;
+    }
+    .area-inicial h3{
+        color: hsl(0, 56%, 98%);
+        font-family: Suez One;
+        font-size: 40px;
+        margin: 50px;
+        font-size: 70px;
+        border-radius: 1px;
+        border: 5px double;
+        font-style: oblique;
+     }
+  
+    .img-instalacao{
+        height: 339px;
+        width: 500px;
+        padding: 0;
+        margin: 0;
+    }
+    .mostrar img{
+        max-width: 500px;
+    }
+    .mostrar{
+        font-size: 40px;
+    }
+   
+   
+
+}

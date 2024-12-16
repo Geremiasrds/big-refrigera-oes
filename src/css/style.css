@@ -1,0 +1,95 @@
+body{
+    background: url(principal.jpg);
+    background: linear-gradient(rgba(0,0,0.5));
+    display: block;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+main{
+    min-width: 100%;
+}
+h1{
+    font-family: Damion;
+}
+.logodk{
+background-color: hsla(0, 2%, 19%, 0.39);
+min-width: 100%;
+}
+.nome-da-empresa{
+    width: 300px;
+    height: 200px;
+}
+.logo{
+    display: flex;
+}
+.logo ul{
+display: flex;
+flex-wrap: wrap;
+}
+.logo li{
+background-color: rgba(185, 185, 137, 0.336);
+border: 1px solid;
+border-radius: 10px;
+margin: 30px;
+list-style: none;
+font-size: 20px;
+text-align: center;
+font-family: Suez One;
+}
+.img-logo{
+    display: none;
+}
+span{
+    display:none;
+}
+.area-inicial{
+    background-color: rgba(0, 0, 0, 0.507);
+    height: 100%;
+    font-size: 45px;
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.botao{
+    display: none;
+}
+.area-inicial h3{
+font-size: 90px;
+}
+.area-inicial p{
+    font-size: 50px;
+}
+
+/* .sobre-instalacao{
+    display: none;
+    font-size: 30px;
+    padding: 10px;
+
+}
+.sobre-manutenção{
+    display: none;
+}
+.quem-somos{
+    display: none;
+}
+.onde-estamos{
+    display:none;
+} 
+.contatos{
+    display: none;
+} */
+
+.mostrar{
+    background-color: rgba(250, 235, 215, 0.63);
+    height: 100vh;
+    font-size: 20px;
+    
+}
+.mostrar button{
+    font-size: 30px;
+    border-radius: 15px;
+    background-color: springgreen;
+    margin-top: 50px;
+}
